@@ -1,0 +1,16 @@
+{
+  "name": "electron_proj",
+  "version": "1.0.0",
+  "description": "electorn project",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "npx electronmon ."
+  },
+  "author": "aadil",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^19.0.9",
+    "electronmon": "^2.0.2"
+  }
+}
